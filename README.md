@@ -1,8 +1,8 @@
 # 🚀 Egemen Deveci - Code Alchemist  
-![Animated Title](https://raw.githubusercontent.com/KULLANICI_ADIN/REPO_ADI/main/A_futuristic_cyberpunk_title.gif)  
+![Egemen Deveci](https://raw.githubusercontent.com/Egmndvci/Egmndvci/main/assets/egemen_deveci_neon.gif)
 
 ## 🔥 Currently Learning  
-![🔥 JAVA 🔥](https://raw.githubusercontent.com/KULLANICI_ADIN/REPO_ADI/main/currently_learning_java.gif)  
+![Currently Learning](https://raw.githubusercontent.com/Egmndvci/Egmndvci/main/assets/currently_learning_burning.gif)
 
 ## 💻 XP  
 💼 **Intern** - Yönetilen Bilgi Sistemleri A.Ş. (2024)  
