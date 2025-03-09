@@ -6,7 +6,7 @@
 
 🔥 **Currently Mastering:** <span style="color:#f89820; font-weight:bold;">JAVA ☕</span>  
 
-💼 **Intern** - Yönetilen Bilgi Sistemleri A.Ş. (2024)  
+💼 **Intern** - Yönetilen Bilgi Sistemleri A.Ş. ( Jul 2024 - Aug 2024 · 2 months )  
 - 🤖 Built **Python** automation scripts  
 - 🛠️ Worked on **IT infrastructure** & **databases**  
 
